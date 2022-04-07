@@ -1,0 +1,12 @@
+(tests
+ (names
+  b_mgienieczko
+  GH_adasiek96
+  GH_aswietlik
+  GH_sebastianjaszczur
+  )
+ (flags
+  (:standard -warn-error -a))
+ (ocamlc_flags
+  (:standard -w -a))
+ (libraries przelewanka))
